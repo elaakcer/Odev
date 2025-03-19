@@ -19,7 +19,7 @@ with open("README.md", "w", encoding="utf-8") as file:
     file.write("## 📝 Açıklamalar\n\n")
     file.write("- GitHub’a yüklemek için yukarıdaki komutlar kullanılmıştır.\n\n")
 
-## 🔄 Yerel Git İş Akışı ile GitHub İş Akışı Arasındaki Farklar
+##  Yerel Git İş Akışı ile GitHub İş Akışı Arasındaki Farklar
 
 | Özellik            | Yerel Git İş Akışı | GitHub İş Akışı |
 |--------------------|--------------------|-----------------|
